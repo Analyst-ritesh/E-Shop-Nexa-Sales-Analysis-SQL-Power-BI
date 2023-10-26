@@ -81,7 +81,7 @@ The primary objectives of the project are as follows:
 3. Sales Team Performance: Evaluate the performance of sales teams, their contribution to sales, and regional sales trends.
 4. Product Analysis: Analyze product sales and identify top-performing products.
 
-# Data Processing in SQL:
+## Data Processing in SQL:
 
 Data Import: Load the dataset into a SQL database, creating tables for the Fact Table and dimension tables.
 Data Cleaning: Address any missing values, errors, or inconsistencies in the data.
@@ -91,7 +91,7 @@ Data Analysis:
 * Conduct SQL queries to perform sales analysis, geographic analysis, sales team evaluation, and product analysis.
 * Aggregate and join data from various tables to derive meaningful insights.
 
-# Data Processing in Power BI:
+## Data Processing in Power BI:
 Data Visualization: Connect Power BI to the SQL database to create interactive visualizations for presenting the findings effectively.
 Design dashboards, charts, and tables to represent insights in an intuitive and informative manner.
 
