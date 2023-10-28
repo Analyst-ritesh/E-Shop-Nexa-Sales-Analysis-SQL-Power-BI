@@ -1,4 +1,4 @@
-# E-Shop-Nexa-Sales-Analysis-SQL-Power-BI
+# Nexa-Sales-Analysis-SQL-Power-BI
 
 This project aims to analyze sales data, store information, sales team data, regional data, product information, and customer data to provide insights for informed business decisions. The dataset includes a Fact Table with sales data and multiple dimension tables. The objective is to derive meaningful insights to optimize sales strategies and assess the impact of geographical factors and sales teams on business performance.
 
