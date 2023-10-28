@@ -4,19 +4,7 @@ This project aims to analyze sales data, store information, sales team data, reg
 
 ## About the Dataset:
 
-The dataset comprises several tables:
-
-Certainly! Here's a detailed project documentation for your data analysis project using SQL and Power BI:
-
-Project Documentation:
-
-Project Title: Sales and Geographic Analysis for Business Decision-Making
-
-Problem Statement:
-
 This project aims to analyze sales data, store information, sales team data, regional data, product information, and customer data to provide insights for informed business decisions. The dataset includes a Fact Table with sales data and multiple dimension tables. The objective is to derive meaningful insights to optimize sales strategies and assess the impact of geographical factors and sales teams on business performance.
-
-About the Dataset:
 
 The dataset comprises several tables:
 
@@ -83,12 +71,12 @@ The primary objectives of the project are as follows:
 
 ## Data Processing in SQL:
 
-Data Import: Load the dataset into a SQL database, creating tables for the Fact Table and dimension tables.
+Data Import: Loaded the dataset into a SQL database.
 Data Cleaning: Address any missing values, errors, or inconsistencies in the data.
-Data Transformation: Create relationships between tables using primary and foreign keys to enable comprehensive analysis.
+Data Transformation: Created relationships between tables using primary and foreign keys to enable comprehensive analysis.
 
 Data Analysis:
-* Conduct SQL queries to perform sales analysis, geographic analysis, sales team evaluation, and product analysis.
+* Conducted SQL queries to perform sales analysis, geographic analysis, sales team evaluation, and product analysis.
 * Aggregate and join data from various tables to derive meaningful insights.
 
 ## Data Processing in Power BI:
