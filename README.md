@@ -4,8 +4,6 @@ This project aims to analyze sales data, store information, sales team data, reg
 
 ## About the Dataset:
 
-This project aims to analyze sales data, store information, sales team data, regional data, product information, and customer data to provide insights for informed business decisions. The dataset includes a Fact Table with sales data and multiple dimension tables. The objective is to derive meaningful insights to optimize sales strategies and assess the impact of geographical factors and sales teams on business performance.
-
 The dataset comprises several tables:
 
 1. Fact Table:
@@ -80,7 +78,7 @@ Data Analysis:
 * Aggregate and join data from various tables to derive meaningful insights.
 
 ## Data Processing in Power BI:
-Data Visualization: Connect Power BI to the SQL database to create interactive visualizations for presenting the findings effectively.
+Data Visualization: Connected Power BI to the SQL database to create interactive visualizations for presenting the findings effectively.
 Design dashboards, charts, and tables to represent insights in an intuitive and informative manner.
 
 ## Insights:
